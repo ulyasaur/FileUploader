@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "EmailSender": "DefaultEndpointsProtocol=https;AccountName=reenbitfiles;AccountKey=ljXt98uG2FfYotRIyuf7sAoEkVthu6bUnvVfQ2gj064RFzSeOgvZx1h1Zd2Il/mOhAVasx4s3Wl2+AStOdGdig==;EndpointSuffix=core.windows.net",
+    "AccountName": "reenbitfiles",
+    "AccountKey": "ljXt98uG2FfYotRIyuf7sAoEkVthu6bUnvVfQ2gj064RFzSeOgvZx1h1Zd2Il/mOhAVasx4s3Wl2+AStOdGdig==",
+    "Sender": "DoNotReply@aa633881-3e79-4234-9e59-2a5d1bf7fb01.azurecomm.net",
+    "CommunicationService": "endpoint=https://reenbitcommunicationservices.europe.communication.azure.com/;accesskey=8O8fUKo+X9f0a6lc8o/cWJ7GveG02KqqyIygUgpiqDkIHm+w3A4royG5i0oPCw3QZsB0L+LQoWdmcGPwPAfEww=="
+  }
+}
